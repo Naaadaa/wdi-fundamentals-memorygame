@@ -1,6 +1,6 @@
 # Memory Game
 
-## summry
+## Summary
 A simple card matching game built with Html and JavaScript that can be played in the browser.
 
 
